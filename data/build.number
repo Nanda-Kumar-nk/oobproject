@@ -1,0 +1,9 @@
+#Ant properties
+#Mon May 04 22:18:32 IST 2020
+build.version=1905.4
+build.vendor=hybris
+build.group.id=de.hybris.platform
+build.module.name=platform-module
+build.builddate=20200504 2217
+build.version.api=1905
+build.releasedate=20190917 1043

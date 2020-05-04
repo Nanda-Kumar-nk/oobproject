@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hybris123:war">
+    <output-path>$PROJECT_DIR$/hybris123/target</output-path>
+    <root id="archive" name="hybris123.war" />
+  </artifact>
+</component>
