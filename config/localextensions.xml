@@ -72,7 +72,12 @@
     <extension name='kymaintegrationbackoffice' />
     <extension name='yb2bacceleratorstorefront' />   -->
 
-    <extension name='concerttours' />
+    <extension name='concerttours'/>
+    <extension name="platformbackoffice"/>
+
+    <!-- ext-template -->
+    <extension name="yempty"/>
+    <extension name="yhacext"/>
 
   </extensions>
 </hybrisconfig>
